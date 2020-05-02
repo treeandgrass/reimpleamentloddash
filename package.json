@@ -1,0 +1,22 @@
+{
+  "name": "reimpleamentloddash",
+  "version": "1.0.0",
+  "description": "阅读loadash源码，并实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treeandgrass/reimpleamentloddash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treeandgrass/reimpleamentloddash/issues"
+  },
+  "homepage": "https://github.com/treeandgrass/reimpleamentloddash#readme",
+  "devDependencies": {
+    "jest": "^25.5.4"
+  }
+}
